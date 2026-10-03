@@ -16,7 +16,7 @@ An interactive Power BI dashboard for analyzing reach, engagement trends, conten
 ![Home](01-HOME_PAGE.png)
 
 ### Overview
-![Overview](02-OVERVIEW.png.)
+![Overview](02-OVERVIEW.png)
 
 ### Content & Platform Performance
 ![Content & Platform Performance](03-CONTENT_&_PLATFORM_PERFORMANCE.png)
