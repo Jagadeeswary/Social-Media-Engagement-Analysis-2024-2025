@@ -1,14 +1,12 @@
 <div align="center">
-*# 📊 Social Media Engagement Analysis 2024–2025*
 
-An interactive Power BI dashboard for analyzing reach, engagement trends, content performance, posting-time patterns, geography, and audience demographics across 8 social media platforms.
+# 📊 SOCIAL MEDIA ENGAGEMENT ANALYSIS 2024–2025
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-6C3FC5?style=for-the-badge)
+![DAX](https://img.shields.io/badge/DAX-217346?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-8B7CF6?style=for-the-badge)
 
----
 </div>
 ## 🖼️ Dashboard Preview
 
